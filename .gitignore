@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.aegis/
+.venv/
+.env
+*.sqlite3*
+.DS_Store

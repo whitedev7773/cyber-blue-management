@@ -1,0 +1,7 @@
+{
+  "session": {"cookieSecure": false, "cookieHttpOnly": true, "idleTimeoutMinutes": 120},
+  "transport": {"httpsOnly": true},
+  "headers": {"nosniff": false},
+  "runtime": {"debug": true},
+  "logging": {"auditEnabled": true}
+}

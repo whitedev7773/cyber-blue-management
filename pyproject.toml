@@ -1,0 +1,10 @@
+[project]
+name = "aegis-review"
+version = "0.1.0"
+description = "Local defensive configuration review and evidence dashboard"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.aegis]
+run = "python -m aegis.server"
+test = "python -m unittest discover -s tests -v"
